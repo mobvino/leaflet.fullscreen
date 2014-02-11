@@ -1,6 +1,6 @@
 {
     "name": "leaflet-fullscreen",
-    "homepage": "https://github.com/brunob/leaflet.fullscreen",
+    "homepage": "https://github.com/mobvino/leaflet.fullscreen",
     "version": "1.0.0",
     "_release": "1.0.0",
     "_resolution": {
@@ -8,7 +8,7 @@
         "tag": "1.0.0",
         "commit": "41fd8c6bf4f8535cc69275a69980f524e25bebfb"
     },
-    "_source": "git://github.com/brunob/leaflet.fullscreen.git",
+    "_source": "git://github.com/mobvino/leaflet.fullscreen.git",
     "_target": "*",
     "_originalSource": "leaflet-fullscreen",
     "main": [
